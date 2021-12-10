@@ -1,0 +1,17 @@
+numpy
+matplotlib
+scipy
+ipywidgets
+ipython
+freud-analysis
+gsd
+jupyter
+nbconvert
+plato-draw
+pythreejs
+qt.py
+pyside2
+coxeter
+vispy==0.7.*
+scipy
+jupyter_contrib_nbextensions
