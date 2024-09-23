@@ -4,7 +4,7 @@ scipy
 ipywidgets
 ipython
 freud-analysis
-gsd==2.4.*
+gsd
 jupyter
 nbconvert
 plato-draw
