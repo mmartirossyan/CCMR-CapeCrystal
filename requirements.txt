@@ -69,7 +69,7 @@ freetype-py==2.5.1
     # via vispy
 freud-analysis==3.1.0
     # via -r requirements.in
-gsd==3.3.2
+gsd==2.9.0
     # via -r requirements.in
 h11==0.14.0
     # via httpcore
@@ -431,3 +431,4 @@ widgetsnbextension==4.0.13
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+
